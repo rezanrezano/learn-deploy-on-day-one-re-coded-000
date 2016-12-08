@@ -164,6 +164,15 @@ a:visited {
 #diane-vu-card {
   background-image: url("../assets/img/diane-vu.jpg");
 }
+/*rezan*/
+#rezan-cover {
+  background-image: url("../assets/img/rezan-cover.jpg");
+}
+
+#rezan {
+  background-image: url("../assets/img/rezan.jpg");
+}
+/**/
 
 .view-profile-div {
   position: absolute;
